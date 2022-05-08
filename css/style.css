@@ -1,0 +1,212 @@
+.modal-header{
+    background: #F7941E;
+    color: #fff;
+}
+.required:after{
+    content: "*";
+    color: red;
+}
+
+.outer-container{
+    background-color: orange;
+    display: flex;
+    height: 100vh;
+    padding: 8px;
+}
+
+/* All Inner Containers */
+
+.inner-container1{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container1 h3{
+    margin: 24px 0 8px 0;
+    text-align: center;
+}
+.inner-container1 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+.inner-container2{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container2 h3{
+    margin: 24px 0 8px 0;
+    text-align: center;
+}
+.inner-container2 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+.inner-container3{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container3 h3{
+    margin: 24px 0 8px 0;
+    text-align: center;
+}
+.inner-container3 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+.inner-container4{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container4 h3{
+    margin: 24px 0 8px 0;
+    text-align: center;
+}
+.inner-container4 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+.inner-container5{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container5 h3{
+    margin: 24px 0 8px 0;
+    text-align: center;
+}
+.inner-container5 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+.inner-container6{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: 0.7% 0.5% 0.7% 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+.inner-container6 h3{
+    margin: 24px 0 0 0;
+    text-align: center;
+}
+.inner-container6 button{
+    width: 120px;
+    margin: 0 0 0 0;
+}
+
+/* All modal-contents */
+
+.modal-content1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;
+    width: 212%;
+    margin: 90px 0 0 -271px;
+}
+.modal-content2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;        
+    width: 206%;
+    margin: 90px 0 0 -266px;
+}
+.modal-content3{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;        
+    width: 209%;
+    margin: 90px 0 0 -261px;
+}
+.modal-content4{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;        
+    width: 209%;
+    margin: 90px 0 0 -261px;
+}
+.modal-content5{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;        
+    width: 223%;
+    margin: 90px 0 0 -307px;
+}
+.modal-content6{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;        
+    width: 235%;
+    margin: 90px 0 0 -327px;
+}
